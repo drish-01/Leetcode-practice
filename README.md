@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/drish-01/Leetcode-practice/tree/master/0014-longest-common-prefix) |
 | [0283-move-zeroes](https://github.com/drish-01/Leetcode-practice/tree/master/0283-move-zeroes) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/drish-01/Leetcode-practice/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/drish-01/Leetcode-practice/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -39,5 +40,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/drish-01/Leetcode-practice/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/drish-01/Leetcode-practice/tree/master/0058-length-of-last-word) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/drish-01/Leetcode-practice/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
