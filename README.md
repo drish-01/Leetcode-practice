@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/drish-01/Leetcode-practice/tree/master/0014-longest-common-prefix) |
+| [0066-plus-one](https://github.com/drish-01/Leetcode-practice/tree/master/0066-plus-one) |
 | [0283-move-zeroes](https://github.com/drish-01/Leetcode-practice/tree/master/0283-move-zeroes) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/drish-01/Leetcode-practice/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/drish-01/Leetcode-practice/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/drish-01/Leetcode-practice/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/drish-01/Leetcode-practice/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/drish-01/Leetcode-practice/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/drish-01/Leetcode-practice/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/drish-01/Leetcode-practice/tree/master/0326-power-of-three) |
