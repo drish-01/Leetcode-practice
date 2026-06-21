@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/drish-01/Leetcode-practice/tree/master/0009-palindrome-number) |
+| [0231-power-of-two](https://github.com/drish-01/Leetcode-practice/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/drish-01/Leetcode-practice/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/drish-01/Leetcode-practice/tree/master/0326-power-of-three) |
 | [2485-find-the-pivot-integer](https://github.com/drish-01/Leetcode-practice/tree/master/2485-find-the-pivot-integer) |
@@ -25,9 +26,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/drish-01/Leetcode-practice/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/drish-01/Leetcode-practice/tree/master/0326-power-of-three) |
 ## Two Pointers
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/drish-01/Leetcode-practice/tree/master/0283-move-zeroes) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/drish-01/Leetcode-practice/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
