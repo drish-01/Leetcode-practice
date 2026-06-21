@@ -36,4 +36,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/drish-01/Leetcode-practice/tree/master/0231-power-of-two) |
+## String
+|  |
+| ------- |
+| [0058-length-of-last-word](https://github.com/drish-01/Leetcode-practice/tree/master/0058-length-of-last-word) |
 <!---LeetCode Topics End-->
