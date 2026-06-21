@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/drish-01/Leetcode-practice/tree/master/0009-palindrome-number) |
 | [0263-ugly-number](https://github.com/drish-01/Leetcode-practice/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/drish-01/Leetcode-practice/tree/master/0326-power-of-three) |
 | [2485-find-the-pivot-integer](https://github.com/drish-01/Leetcode-practice/tree/master/2485-find-the-pivot-integer) |
