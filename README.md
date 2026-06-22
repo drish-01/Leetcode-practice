@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/drish-01/Leetcode-practice/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/drish-01/Leetcode-practice/tree/master/0058-length-of-last-word) |
 | [1189-maximum-number-of-balloons](https://github.com/drish-01/Leetcode-practice/tree/master/1189-maximum-number-of-balloons) |
+| [3340-check-balanced-string](https://github.com/drish-01/Leetcode-practice/tree/master/3340-check-balanced-string) |
 ## Trie
 |  |
 | ------- |
