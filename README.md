@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/drish-01/Leetcode-practice/tree/master/0014-longest-common-prefix) |
 | [0066-plus-one](https://github.com/drish-01/Leetcode-practice/tree/master/0066-plus-one) |
 | [0283-move-zeroes](https://github.com/drish-01/Leetcode-practice/tree/master/0283-move-zeroes) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/drish-01/Leetcode-practice/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/drish-01/Leetcode-practice/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1732-find-the-highest-altitude](https://github.com/drish-01/Leetcode-practice/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/drish-01/Leetcode-practice/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/drish-01/Leetcode-practice/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/drish-01/Leetcode-practice/tree/master/0058-length-of-last-word) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/drish-01/Leetcode-practice/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1189-maximum-number-of-balloons](https://github.com/drish-01/Leetcode-practice/tree/master/1189-maximum-number-of-balloons) |
 | [1880-check-if-word-equals-summation-of-two-words](https://github.com/drish-01/Leetcode-practice/tree/master/1880-check-if-word-equals-summation-of-two-words) |
 | [3340-check-balanced-string](https://github.com/drish-01/Leetcode-practice/tree/master/3340-check-balanced-string) |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/drish-01/Leetcode-practice/tree/master/0001-two-sum) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/drish-01/Leetcode-practice/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1189-maximum-number-of-balloons](https://github.com/drish-01/Leetcode-practice/tree/master/1189-maximum-number-of-balloons) |
 ## Counting
 |  |
