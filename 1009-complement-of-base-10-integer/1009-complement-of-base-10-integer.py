@@ -5,12 +5,13 @@ class Solution(object):
         :rtype: int
         """
         p=bin(n)[2:]
-        t=len(p)
-        newbin =0
+        
+        newbin =''
         for i in p:
             if i =='0':
-                newbin+=10**(t-1)
-            t-=1
-        newbin =str(newbin)
+                newbin+="1"
+            else:
+                newbin+="0"
+        
         return int(newbin, 2)
         
