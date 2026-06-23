@@ -11,10 +11,8 @@ class Solution(object):
         subtractor=0
         for i in range(len(nums)):
             sumtotal-=nums[i]
-            ansarr.append(sumtotal-subtractor)
+            ansarr.append(abs(sumtotal-subtractor))
             subtractor+=nums[i]
 
-        for i in range(len(ansarr)):
-            if ansarr[i]<0:
-                ansarr[i]=-(ansarr[i])
+        
         return ansarr
