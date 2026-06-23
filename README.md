@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/drish-01/Leetcode-practice/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1732-find-the-highest-altitude](https://github.com/drish-01/Leetcode-practice/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/drish-01/Leetcode-practice/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [2574-left-and-right-sum-differences](https://github.com/drish-01/Leetcode-practice/tree/master/2574-left-and-right-sum-differences) |
 ## Sorting
 |  |
 | ------- |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1732-find-the-highest-altitude](https://github.com/drish-01/Leetcode-practice/tree/master/1732-find-the-highest-altitude) |
 | [2485-find-the-pivot-integer](https://github.com/drish-01/Leetcode-practice/tree/master/2485-find-the-pivot-integer) |
+| [2574-left-and-right-sum-differences](https://github.com/drish-01/Leetcode-practice/tree/master/2574-left-and-right-sum-differences) |
 ## Recursion
 |  |
 | ------- |
