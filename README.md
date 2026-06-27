@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/drish-01/Leetcode-practice/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/drish-01/Leetcode-practice/tree/master/0014-longest-common-prefix) |
 | [0066-plus-one](https://github.com/drish-01/Leetcode-practice/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/drish-01/Leetcode-practice/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/drish-01/Leetcode-practice/tree/master/0283-move-zeroes) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/drish-01/Leetcode-practice/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/drish-01/Leetcode-practice/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/drish-01/Leetcode-practice/tree/master/0088-merge-sorted-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/drish-01/Leetcode-practice/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/drish-01/Leetcode-practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Math
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/drish-01/Leetcode-practice/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/drish-01/Leetcode-practice/tree/master/0283-move-zeroes) |
 ## Bit Manipulation
 |  |
