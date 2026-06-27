@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/drish-01/Leetcode-practice/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/drish-01/Leetcode-practice/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/drish-01/Leetcode-practice/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/drish-01/Leetcode-practice/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/drish-01/Leetcode-practice/tree/master/0263-ugly-number) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/drish-01/Leetcode-practice/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/drish-01/Leetcode-practice/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/drish-01/Leetcode-practice/tree/master/0058-length-of-last-word) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/drish-01/Leetcode-practice/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/drish-01/Leetcode-practice/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/drish-01/Leetcode-practice/tree/master/0013-roman-to-integer) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/drish-01/Leetcode-practice/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1189-maximum-number-of-balloons](https://github.com/drish-01/Leetcode-practice/tree/master/1189-maximum-number-of-balloons) |
 ## Counting
