@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/drish-01/Leetcode-practice/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1732-find-the-highest-altitude](https://github.com/drish-01/Leetcode-practice/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/drish-01/Leetcode-practice/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/drish-01/Leetcode-practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/drish-01/Leetcode-practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/drish-01/Leetcode-practice/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2574-left-and-right-sum-differences](https://github.com/drish-01/Leetcode-practice/tree/master/2574-left-and-right-sum-differences) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/drish-01/Leetcode-practice/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1189-maximum-number-of-balloons](https://github.com/drish-01/Leetcode-practice/tree/master/1189-maximum-number-of-balloons) |
 | [1880-check-if-word-equals-summation-of-two-words](https://github.com/drish-01/Leetcode-practice/tree/master/1880-check-if-word-equals-summation-of-two-words) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/drish-01/Leetcode-practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3340-check-balanced-string](https://github.com/drish-01/Leetcode-practice/tree/master/3340-check-balanced-string) |
 ## Trie
 |  |
