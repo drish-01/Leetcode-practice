@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/drish-01/Leetcode-practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/drish-01/Leetcode-practice/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2574-left-and-right-sum-differences](https://github.com/drish-01/Leetcode-practice/tree/master/2574-left-and-right-sum-differences) |
+| [3637-trionic-array-i](https://github.com/drish-01/Leetcode-practice/tree/master/3637-trionic-array-i) |
 ## Sorting
 |  |
 | ------- |
