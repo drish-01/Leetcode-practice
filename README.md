@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/drish-01/Leetcode-practice/tree/master/0088-merge-sorted-array) |
+| [0389-find-the-difference](https://github.com/drish-01/Leetcode-practice/tree/master/0389-find-the-difference) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/drish-01/Leetcode-practice/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/drish-01/Leetcode-practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/drish-01/Leetcode-practice/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/drish-01/Leetcode-practice/tree/master/0231-power-of-two) |
+| [0389-find-the-difference](https://github.com/drish-01/Leetcode-practice/tree/master/0389-find-the-difference) |
 | [1009-complement-of-base-10-integer](https://github.com/drish-01/Leetcode-practice/tree/master/1009-complement-of-base-10-integer) |
 ## String
 |  |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/drish-01/Leetcode-practice/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/drish-01/Leetcode-practice/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/drish-01/Leetcode-practice/tree/master/0125-valid-palindrome) |
+| [0389-find-the-difference](https://github.com/drish-01/Leetcode-practice/tree/master/0389-find-the-difference) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/drish-01/Leetcode-practice/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1189-maximum-number-of-balloons](https://github.com/drish-01/Leetcode-practice/tree/master/1189-maximum-number-of-balloons) |
 | [1880-check-if-word-equals-summation-of-two-words](https://github.com/drish-01/Leetcode-practice/tree/master/1880-check-if-word-equals-summation-of-two-words) |
@@ -80,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/drish-01/Leetcode-practice/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/drish-01/Leetcode-practice/tree/master/0013-roman-to-integer) |
+| [0389-find-the-difference](https://github.com/drish-01/Leetcode-practice/tree/master/0389-find-the-difference) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/drish-01/Leetcode-practice/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1189-maximum-number-of-balloons](https://github.com/drish-01/Leetcode-practice/tree/master/1189-maximum-number-of-balloons) |
 ## Counting
