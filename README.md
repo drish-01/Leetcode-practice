@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/drish-01/Leetcode-practice/tree/master/0125-valid-palindrome) |
 | [0389-find-the-difference](https://github.com/drish-01/Leetcode-practice/tree/master/0389-find-the-difference) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/drish-01/Leetcode-practice/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0709-to-lower-case](https://github.com/drish-01/Leetcode-practice/tree/master/0709-to-lower-case) |
 | [1189-maximum-number-of-balloons](https://github.com/drish-01/Leetcode-practice/tree/master/1189-maximum-number-of-balloons) |
 | [1880-check-if-word-equals-summation-of-two-words](https://github.com/drish-01/Leetcode-practice/tree/master/1880-check-if-word-equals-summation-of-two-words) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/drish-01/Leetcode-practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
