@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/drish-01/Leetcode-practice/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0709-to-lower-case](https://github.com/drish-01/Leetcode-practice/tree/master/0709-to-lower-case) |
 | [1189-maximum-number-of-balloons](https://github.com/drish-01/Leetcode-practice/tree/master/1189-maximum-number-of-balloons) |
+| [1370-increasing-decreasing-string](https://github.com/drish-01/Leetcode-practice/tree/master/1370-increasing-decreasing-string) |
 | [1880-check-if-word-equals-summation-of-two-words](https://github.com/drish-01/Leetcode-practice/tree/master/1880-check-if-word-equals-summation-of-two-words) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/drish-01/Leetcode-practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3340-check-balanced-string](https://github.com/drish-01/Leetcode-practice/tree/master/3340-check-balanced-string) |
@@ -89,10 +90,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/drish-01/Leetcode-practice/tree/master/0389-find-the-difference) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/drish-01/Leetcode-practice/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1189-maximum-number-of-balloons](https://github.com/drish-01/Leetcode-practice/tree/master/1189-maximum-number-of-balloons) |
+| [1370-increasing-decreasing-string](https://github.com/drish-01/Leetcode-practice/tree/master/1370-increasing-decreasing-string) |
 ## Counting
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/drish-01/Leetcode-practice/tree/master/1189-maximum-number-of-balloons) |
+| [1370-increasing-decreasing-string](https://github.com/drish-01/Leetcode-practice/tree/master/1370-increasing-decreasing-string) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/drish-01/Leetcode-practice/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 ## Greedy
 |  |
