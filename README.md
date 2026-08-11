@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/drish-01/Leetcode-practice/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2574-left-and-right-sum-differences](https://github.com/drish-01/Leetcode-practice/tree/master/2574-left-and-right-sum-differences) |
 | [3637-trionic-array-i](https://github.com/drish-01/Leetcode-practice/tree/master/3637-trionic-array-i) |
+| [3643-flip-square-submatrix-vertically](https://github.com/drish-01/Leetcode-practice/tree/master/3643-flip-square-submatrix-vertically) |
 ## Sorting
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/drish-01/Leetcode-practice/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/drish-01/Leetcode-practice/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/drish-01/Leetcode-practice/tree/master/0283-move-zeroes) |
+| [3643-flip-square-submatrix-vertically](https://github.com/drish-01/Leetcode-practice/tree/master/3643-flip-square-submatrix-vertically) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -114,4 +116,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/drish-01/Leetcode-practice/tree/master/0021-merge-two-sorted-lists) |
+## Matrix
+|  |
+| ------- |
+| [3643-flip-square-submatrix-vertically](https://github.com/drish-01/Leetcode-practice/tree/master/3643-flip-square-submatrix-vertically) |
 <!---LeetCode Topics End-->
