@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/drish-01/Leetcode-practice/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/drish-01/Leetcode-practice/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/drish-01/Leetcode-practice/tree/master/0326-power-of-three) |
+| [0633-sum-of-square-numbers](https://github.com/drish-01/Leetcode-practice/tree/master/0633-sum-of-square-numbers) |
 | [2485-find-the-pivot-integer](https://github.com/drish-01/Leetcode-practice/tree/master/2485-find-the-pivot-integer) |
 | [3536-maximum-product-of-two-digits](https://github.com/drish-01/Leetcode-practice/tree/master/3536-maximum-product-of-two-digits) |
 ## Prefix Sum
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/drish-01/Leetcode-practice/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/drish-01/Leetcode-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/drish-01/Leetcode-practice/tree/master/0283-move-zeroes) |
+| [0633-sum-of-square-numbers](https://github.com/drish-01/Leetcode-practice/tree/master/0633-sum-of-square-numbers) |
 | [3643-flip-square-submatrix-vertically](https://github.com/drish-01/Leetcode-practice/tree/master/3643-flip-square-submatrix-vertically) |
 ## Bit Manipulation
 |  |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/drish-01/Leetcode-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0633-sum-of-square-numbers](https://github.com/drish-01/Leetcode-practice/tree/master/0633-sum-of-square-numbers) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/drish-01/Leetcode-practice/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Dynamic Programming
 |  |
